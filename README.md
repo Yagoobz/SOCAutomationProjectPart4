@@ -15,4 +15,5 @@ In the Windows 10 machine, I navigate to the "ossec-agent" folder in Program Fil
 
 Before downloading Mimikatz onto the machine, I must exclude the downloads path to prevent Windows from denying the download. Additionally, since Google Chrome might block the download, I adjust a setting to allow it. Once the download is complete, I open an administrative Windows PowerShell, navigate to the Mimikatz directory, and execute it.
 <br />
+<br />
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/0c616ea7-5165-4815-93b9-3c3960c22ecb" height="30%" width="70%" alt="Disk Sanitization Steps"/>
