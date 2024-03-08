@@ -30,3 +30,9 @@ In the Wazuh manager, I create a new index specifically for archives, enabling m
 <br />
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/9b09d5da-b391-4e6d-b836-2eca0c8b3c81" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
+Before checking my Wazuh dashboard, I decide to double-check whether Mimikatz is being recognized. I generate another instance of Mimikatz in Windows PowerShell, and upon inspection of the event viewer, I confirm its presence. Additionally, I search for "Mimikatz" in the Wazuh manager using "grep." With everything in place, I proceed to the Wazuh dashboard, and sure enough, there it is! As an added bonus, I also receive the classic "Active Windows" alert on my Windows machine.
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+
