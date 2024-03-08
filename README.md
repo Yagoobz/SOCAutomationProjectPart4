@@ -29,4 +29,4 @@ Before checking the Wazuh dashboard, I make adjustments in the "ossec.conf" file
 In the Wazuh manager, I create a new index specifically for archives, enabling me to search through all the logs seamlessly. And just like that, it's done!
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/9b09d5da-b391-4e6d-b836-2eca0c8b3c81" height="30%" width="70%" alt="Disk Sanitization Steps"/>
