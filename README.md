@@ -21,4 +21,7 @@ Before downloading Mimikatz onto the machine, I must exclude the downloads path 
 Before checking the Wazuh dashboard, I make adjustments in the "ossec.conf" file. Using "nano," I modify the "logall" and "logall_json" settings from "no" to "yes," then restart the Wazuh manager. This action initiates the archiving of all logs into a file named "archives," which will be located in "/var/ossec/logs/archives/." To enable Wazuh to ingest these logs, I update the configuration in Filebeat by editing the "filebeat.yml" file with "nano /etc/filebeat/filebeat.yml." Within this file, I set "archives enabled" to true and restart the Filebeat service.
 <br />
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/d53af3e0-f197-44ce-ba57-9381b7fb31f7" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/06ed39f1-d502-4632-8f16-55b001b46dc1" height="30%" width="70%" alt="Disk Sanitization Steps"/>
