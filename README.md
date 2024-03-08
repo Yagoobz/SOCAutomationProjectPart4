@@ -2,6 +2,7 @@
 
 <h3>Objectives</h3>
 - Generate Telemetry
+<br />
 - Ingest into Wazuh 
 <br />
 <br />
