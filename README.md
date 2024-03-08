@@ -42,3 +42,7 @@ Before checking my Wazuh dashboard, I decide to double-check whether Mimikatz is
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/f56d4506-c47d-45de-8930-dcc0b7115284" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
+In the Wazuh dashboard, I navigate to "manage rules" and select the "0800-sysmon_id_1.xml" file to create a custom rule for detecting Mimikatz. After copying a rule, I move to "custom rules" and access the "local_rules.xml" file. I paste the copied rule, adjusting the "rule id" to 100002 to avoid duplication, and set the severity level to the maximum value of 15. Then, I modify the "field name" to the original file name, change the "type" to "mimikatz," and update the "description" to "Mimikatz Usage Detected."
+<br />
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
