@@ -1,7 +1,8 @@
 <h2>SOC Automation Lab Part 4</h2>
 
 <h3>Objectives</h3>
-- ... 
+- Generate Telemetry
+- Ingest into Wazuh 
 <br />
 <br />
 
