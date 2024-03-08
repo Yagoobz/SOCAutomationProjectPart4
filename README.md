@@ -47,7 +47,7 @@ In the Wazuh dashboard, I navigate to "manage rules" and select the "0800-sysmon
 <br />
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/c777e160-92bd-444f-8d0d-03a73e19985b" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
-...
+Back in Windows PowerShell, I trigger another Mimikatz instance to test whether we receive an alert on the Wazuh dashboard. Lo and behold, the alert appears! We're all set!
 <br />
 <br />
 <img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
