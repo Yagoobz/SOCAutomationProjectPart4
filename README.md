@@ -10,5 +10,4 @@ In the Windows 10 machine, I navigate to the "ossec-agent" folder in Program Fil
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/501a5f67-f214-46b3-afb3-18773cbea606" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 <img src="https://github.com/Yagoobz/SOCAutomationLabPart4/assets/145611184/b1072f53-b18d-4881-89cc-be5befc6ada6" height="30%" width="70%" alt="Disk Sanitization Steps"/>
